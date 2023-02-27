@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.devfd.RNGeocoder.react-native-geocoder-merged_res-20:/menu/example_menu.xml",
+        "source": "com.devfd.RNGeocoder.react-native-geocoder-core-1.7.0-4:/menu/example_menu.xml"
+    },
+    {
+        "merged": "com.devfd.RNGeocoder.react-native-geocoder-merged_res-20:/menu/example_menu2.xml",
+        "source": "com.devfd.RNGeocoder.react-native-geocoder-core-1.7.0-4:/menu/example_menu2.xml"
+    }
+]
