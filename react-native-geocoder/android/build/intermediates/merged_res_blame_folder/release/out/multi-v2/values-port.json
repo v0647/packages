@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.devfd.RNGeocoder.react-native-geocoder-merged_res-20:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/vipinv/.gradle/caches/transforms-3/7a34c9521cd25f0e8cb39070e918a651/transformed/appcompat-1.4.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.devfd.RNGeocoder.react-native-geocoder-mergeReleaseResources-18:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/vipinv/.gradle/caches/transforms-3/7a34c9521cd25f0e8cb39070e918a651/transformed/appcompat-1.4.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
